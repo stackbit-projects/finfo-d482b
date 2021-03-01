@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer>
       <div className="container">
-        <p>&copy; Finfo 20201.  All Rights Reserved.</p>
+        <p>&copy; Finfo 2021.  All Rights Reserved.</p>
         <ul className="list-inline">
           <li className="list-inline-item">
             <a href="/#">Privacy</a>
