@@ -107,7 +107,7 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-camera text-primary"></i>
-                    <h3>Flexible Use</h3>
+                    <h3>Community</h3>
                     <p className="text-muted">
                       Put an image, video, animation, or anything else in the
                       screen!
