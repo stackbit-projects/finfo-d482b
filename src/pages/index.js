@@ -81,7 +81,7 @@ const IndexPage = () => (
         <div className="row">
           <div className="col-lg-4 my-auto">
             <div className="device-container">
-              <div className="device-mockup iphoneX_plus portrait white">
+              <div className="device-mockup iphone6_plus portrait white">
                 <div className="device">
                   <div className="screen">
                     <img src={demo1} className="img-fluid" alt="" />
