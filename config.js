@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Finfo', // <title>
+  siteTitle: 'Finfo.app', // <title>
   manifestName: 'newage',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
