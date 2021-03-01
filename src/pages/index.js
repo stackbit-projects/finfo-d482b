@@ -99,7 +99,7 @@ const IndexPage = () => (
                     <i className="icon-screen-smartphone text-primary"></i>
                     <h3>Daily Rundown</h3>
                     <p className="text-muted">
-                      Personalised feed of content in the form of articles, videos and podcasts
+                      Personalised feed of articles, videos and podcasts - curated from a number of trusted sources
                     </p>
                   </div>
                 </div>
@@ -108,8 +108,7 @@ const IndexPage = () => (
                     <i className="icon-camera text-primary"></i>
                     <h3>Courses</h3>
                     <p className="text-muted">
-                      Put an image, video, animation, or anything else in the
-                      screen!
+                      Interactive courses to introduce you to the world of investing, tailored to your level of experience
                     </p>
                   </div>
                 </div>
@@ -120,8 +119,7 @@ const IndexPage = () => (
                     <i className="icon-present text-primary"></i>
                     <h3>Stock Explorer</h3>
                     <p className="text-muted">
-                      As always, this theme is free to download and use for any
-                      purpose!
+                      Access to advanced reports on stocks and sectors, as well as interactive way to find new companies to invest in
                     </p>
                   </div>
                 </div>
@@ -130,8 +128,7 @@ const IndexPage = () => (
                     <i className="icon-lock-open text-primary"></i>
                     <h3>Wealth Tracking</h3>
                     <p className="text-muted">
-                      Since this theme is MIT licensed, you can use it
-                      commercially!
+                      Track your wealth across your bank accounts and portfolios (stocks, currencies and cryptocurrencies)
                     </p>
                   </div>
                 </div>
