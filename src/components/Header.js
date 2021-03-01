@@ -40,7 +40,7 @@ export default class Header extends Component {
         id="mainNav"
       >
         <div className="container">
-          <a className="navbar-brand" href="Hello">
+          <a className="navbar-brand" href="#download">
             {config.siteTitle}
           </a>
           <button
