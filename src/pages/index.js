@@ -99,15 +99,14 @@ const IndexPage = () => (
                     <i className="icon-screen-smartphone text-primary"></i>
                     <h3>Daily Rundown</h3>
                     <p className="text-muted">
-                      Ready to use HTML/CSS device mockups, no Photoshop
-                      required!
+                      Personalised feed of content in the form of articles, videos and podcasts
                     </p>
                   </div>
                 </div>
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-camera text-primary"></i>
-                    <h3>Community</h3>
+                    <h3>Courses</h3>
                     <p className="text-muted">
                       Put an image, video, animation, or anything else in the
                       screen!
