@@ -74,7 +74,7 @@ const IndexPage = () => (
         <div className="section-heading text-center">
           <h2>Unlimited Features, Unlimited Fun</h2>
           <p className="text-muted">
-            Check out what you can do with this app theme!
+            Check out what you can do with the Finfo app!
           </p>
           <hr />
         </div>
