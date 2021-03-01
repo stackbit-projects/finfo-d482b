@@ -20,7 +20,7 @@ const IndexPage = () => (
           <div className="col-lg-7 my-auto">
             <div className="header-content mx-auto">
               <h1 className="mb-5">
-                Finfo is a platform that will help all individuals in their journey to financial freedom.
+                Finfo is an app that will help you on your journey to financial freedom.
               </h1>
               <Scroll type="id" element="download">
                 <a href="#download" className="btn btn-outline btn-xl">
