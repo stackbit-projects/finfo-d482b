@@ -119,7 +119,7 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-present text-primary"></i>
-                    <h3>Free to Use</h3>
+                    <h3>Stock Explorer</h3>
                     <p className="text-muted">
                       As always, this theme is free to download and use for any
                       purpose!
