@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter New age', // <title>
+  siteTitle: 'Finfo', // <title>
   manifestName: 'newage',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
