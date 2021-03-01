@@ -97,7 +97,7 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-screen-smartphone text-primary"></i>
-                    <h3>Device Mockups</h3>
+                    <h3>Daily Rundown</h3>
                     <p className="text-muted">
                       Ready to use HTML/CSS device mockups, no Photoshop
                       required!
