@@ -50,7 +50,7 @@ const IndexPage = () => (
         <div className="row">
           <div className="col-md-8 mx-auto">
             <h2 className="section-heading">
-              Discover what all the buzz is about!
+              Join our community now!
             </h2>
             <p>
               Our app is available on any mobile device! Download now to get
