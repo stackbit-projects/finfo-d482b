@@ -129,7 +129,7 @@ const IndexPage = () => (
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-lock-open text-primary"></i>
-                    <h3>Open Source</h3>
+                    <h3>Wealth Tracking</h3>
                     <p className="text-muted">
                       Since this theme is MIT licensed, you can use it
                       commercially!
