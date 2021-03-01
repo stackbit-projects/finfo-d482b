@@ -143,7 +143,7 @@ const IndexPage = () => (
       <div className="cta-content">
         <div className="container">
           <h2>
-            Stop waiting.
+            Stop waiting, Start growing
             <br />
             Start building.
           </h2>
